@@ -25,7 +25,7 @@ This project is a 4-bit ALU designed using **Verilog HDL**, capable of performin
 
 ## ✅ Working Output
 
-![Working Output](output_photo.png)
+![Working Output](images/output_photo.png)
 
 ---
 
